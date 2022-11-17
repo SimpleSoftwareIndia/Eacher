@@ -14,7 +14,7 @@ args = parser.parse_args() #arguments to be parsed
 target = args.target #Gets tarfet from argument
 
 #Fancy banner :p
-print ('''\033[1;34m______   ______ _______ _______ _______ _     _ _______  ______
+print ('''\033[1;34m______   ______ _______ _______ _______ _     
                     |______ |_____| |       |_____| |______ |_____/
                    ||______ |     | |_____  |     | |______ |    \_
 
